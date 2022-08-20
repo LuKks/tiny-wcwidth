@@ -1,0 +1,27 @@
+{
+  "name": "tiny-wcwidth",
+  "version": "1.0.0",
+  "description": "Determine columns needed for a wide character",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuKks/tiny-wcwidth.git"
+  },
+  "author": {
+    "name": "Woong Jun",
+    "email": "woong.jun@gmail.com",
+    "url": "http://code.woong.org/"
+  },
+  "contributors": [
+    {
+      "name": "Tim Oxley",
+      "email": "secoif@gmail.com",
+      "url": "http://campjs.com/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuKks/tiny-wcwidth/issues"
+  },
+  "homepage": "https://github.com/LuKks/tiny-wcwidth"
+}
