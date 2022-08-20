@@ -1,5 +1,7 @@
 # tiny-wcwidth
 
+Determine columns needed for a wide character.
+
 Simplified fork of [wcwidth.js](https://github.com/mycoboco/wcwidth.js) with added support for multi-codepoint emojis.
 
 ```
