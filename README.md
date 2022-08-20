@@ -2,8 +2,6 @@
 
 Determine columns needed for a wide character.
 
-Simplified fork of [wcwidth.js](https://github.com/mycoboco/wcwidth.js) with added support for multi-codepoint emojis.
-
 ```
 npm i tiny-wcwidth
 ```
@@ -21,6 +19,8 @@ wcwidth('한글') // 4
 '🤦🏼‍♂️'.length // 7
 wcwidth('🤦🏼‍♂️') // 2
 ```
+
+Simplified fork of [wcwidth.js](https://github.com/mycoboco/wcwidth.js) with added support for multi-codepoint emojis.
 
 ## License
 MIT
