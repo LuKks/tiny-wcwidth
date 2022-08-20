@@ -1,7 +1,6 @@
 # tiny-wcwidth
 
 Simplified fork of [wcwidth.js](https://github.com/mycoboco/wcwidth.js) with added support for multi-codepoint emojis.
-Author and contributors are listed on `package.json`.
 
 ```
 npm i tiny-wcwidth
